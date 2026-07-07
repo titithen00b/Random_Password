@@ -1,4 +1,4 @@
-# 🔑 Random_Password — Générateur de mots de passe PowerShell
+# 🔑 Random_Password - Générateur de mots de passe PowerShell
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge)
